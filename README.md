@@ -35,5 +35,8 @@ with st.expander('Git 명령어'):
 ![image](https://github.com/user-attachments/assets/399cc36c-08c2-490d-a3eb-9b82c5672ca5)
 ![image](https://github.com/user-attachments/assets/92455b3f-4776-462a-8d58-2af8f356b629)
 
+# 출처
+https://velog.io/@tngus0325/16%EA%B0%80%EC%A7%80-%EB%A6%AC%EB%88%85%EC%8A%A4-%EA%B8%B0%EB%B3%B8-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC
+https://velog.io/@delilah/GitHub-Git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EB%AA%A8%EC%9D%8C
 
 
